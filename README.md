@@ -8,8 +8,8 @@
 - 💬 Ask me about **react, html, css, javascript**
 
 - 📫 How to reach me:
-- Gmail: **karimovdilyorbekk@gmail.com**
-- Telegram: **https://t.me/Karimov_Dilyorbek**
+-  <a target="_blank" href="[mailto:karimovdilyorbekk@gmail.com](https://gmail.com/)" > Gmail </a>
+-  <a href="t.me/Karimov_Dilyorbek" target="_blank">Telegram</a>
 
 
 
