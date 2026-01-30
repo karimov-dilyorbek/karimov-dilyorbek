@@ -9,7 +9,7 @@
 
 - 📫 How to reach me:
 -  <a target="_blank" href="mailto:karimovdilyorbekk@gmail.com" > Gmail </a>
--  <a href="t.me/Karimov_Dilyorbek" target="_blank">Telegram</a>
+-  <a href="https://t.me/Karimov_Dilyorbek" target="_blank">Telegram</a>
 
 
 
