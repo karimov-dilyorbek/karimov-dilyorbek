@@ -7,7 +7,9 @@
 
 - 💬 Ask me about **react, html, css, javascript**
 
-- 📫 How to reach me **karimovdilyorbekk@gmail.com**
+- 📫 How to reach me:
+- Gmail: **karimovdilyorbekk@gmail.com**
+- Telegram: **https://t.me/Karimov_Dilyorbek**
 
 
 
