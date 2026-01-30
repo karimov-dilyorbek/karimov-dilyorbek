@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 - 🔭 I’m currently working on Rayhon restuarant project with colleague (Sorry, I can't post the link this project)
-- 
+  
 - 🌱 I’m currently learning Next.js deeper and better
-- 
+
 - 💬 Ask me about **react, html, css, javascript**
 
 - 📫 How to reach me **karimovdilyorbekk@gmail.com**
