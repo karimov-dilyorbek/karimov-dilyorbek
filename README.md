@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning Next.js deeper and better
 
-- 💬 Ask me about **react, html, css, javascript**
+- 💬 Ask me about **react, html, css, javascript, tailwindcss**
 
 - 📫 How to reach me:
 -  <a target="_blank" href="mailto:karimovdilyorbekk@gmail.com" > Gmail </a>
