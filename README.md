@@ -4,11 +4,16 @@
 
 ---
 
+### 📖  Learning now
+
+**Next.js** and improving my frontend architecture skills  
+
 ### 🚀 About Me
 
-- 🔭 Currently working on a private restaurant project with a team  
-- 🌱 Learning **Next.js** and improving my frontend architecture skills  
-- 💬 Ask me about **React, HTML, CSS, JavaScript, Tailwind CSS**  
+- 🔭 Currently working on a private restaurant project with a team
+- 
+- 💬 Ask me about **React, HTML, CSS, JavaScript, Tailwind CSS**
+-  
 - ⚡ Passionate about clean UI, responsive design, and performance optimization  
 
 ---
